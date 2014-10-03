@@ -54,13 +54,6 @@ vendor-value(arg, only = null, ignore = null)
   arg
 
 /*
- * Vendor "box-shadow" support.
- */
-
-box-shadow()
-  vendor('box-shadow', arguments, only: webkit official)
-
-/*
  * Vendor "user-select" support.
  */
 
@@ -466,7 +459,7 @@ font-smoothing()
     x = pos[1]
     // We don't use moz for simple boder-radius anymore
     // vendor('border-radius-%s%s' % pos, pos[2], only: moz)
-    vendor('border-%s-%s-radius' % pos, pos[2] importance, only: webkit official)
+    vendor('border-%s-%s-radius' % pos, pos[2] importance)
   else if pos[0] in (top bottom)
     // border-radius: <top | bottom> <n>
     -apply-border-radius(pos[0] left pos[1], importance)
@@ -508,7 +501,7 @@ border-radius()
         if augmented
           -apply-border-radius(pos, importance)
           pos = ()
-  vendor('border-radius', pos, only: webkit official) unless augmented
+  vendor('border-radius', pos) unless augmented
 
 /**
  * Vendor input-placeholder/placeholder support.
