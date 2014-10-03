@@ -459,7 +459,7 @@ font-smoothing()
     x = pos[1]
     // We don't use moz for simple boder-radius anymore
     // vendor('border-radius-%s%s' % pos, pos[2], only: moz)
-    vendor('border-%s-%s-radius' % pos, pos[2] importance)
+    vendor('border-%s-%s-radius' % pos, pos[2] importance, only: official)
   else if pos[0] in (top bottom)
     // border-radius: <top | bottom> <n>
     -apply-border-radius(pos[0] left pos[1], importance)
@@ -501,7 +501,7 @@ border-radius()
         if augmented
           -apply-border-radius(pos, importance)
           pos = ()
-  vendor('border-radius', pos) unless augmented
+  vendor('border-radius', pos, only: official) unless augmented
 
 /**
  * Vendor input-placeholder/placeholder support.
