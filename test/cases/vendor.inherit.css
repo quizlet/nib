@@ -47,48 +47,22 @@ button {
   appearance: inherit;
 }
 section {
-  -webkit-column-count: inherit;
-  -moz-column-count: inherit;
   column-count: inherit;
-  -webkit-column-rule: inherit;
-  -moz-column-rule: inherit;
   column-rule: inherit;
-  -webkit-column-gap: inherit;
-  -moz-column-gap: inherit;
   column-gap: inherit;
 }
 section {
-  -webkit-column-count: inherit;
-  -moz-column-count: inherit;
   column-count: inherit;
-  -webkit-column-rule-width: inherit;
-  -moz-column-rule-width: inherit;
   column-rule-width: inherit;
-  -webkit-column-rule-style: inherit;
-  -moz-column-rule-style: inherit;
   column-rule-style: inherit;
-  -webkit-column-rule-color: inherit;
-  -moz-column-rule-color: inherit;
   column-rule-color: inherit;
-  -webkit-column-width: inherit;
-  -moz-column-width: inherit;
   column-width: inherit;
 }
 section {
-  -webkit-column-count: inherit;
-  -moz-column-count: inherit;
   column-count: inherit;
-  -webkit-column-rule-width: inherit;
-  -moz-column-rule-width: inherit;
   column-rule-width: inherit;
-  -webkit-column-rule-style: inherit;
-  -moz-column-rule-style: inherit;
   column-rule-style: inherit;
-  -webkit-column-rule-color: inherit;
-  -moz-column-rule-color: inherit;
   column-rule-color: inherit;
-  -webkit-column-gap: inherit;
-  -moz-column-gap: inherit;
   column-gap: inherit;
 }
 button {

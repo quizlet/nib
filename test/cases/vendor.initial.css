@@ -47,48 +47,22 @@ button {
   appearance: initial;
 }
 section {
-  -webkit-column-count: initial;
-  -moz-column-count: initial;
   column-count: initial;
-  -webkit-column-rule: initial;
-  -moz-column-rule: initial;
   column-rule: initial;
-  -webkit-column-gap: initial;
-  -moz-column-gap: initial;
   column-gap: initial;
 }
 section {
-  -webkit-column-count: initial;
-  -moz-column-count: initial;
   column-count: initial;
-  -webkit-column-rule-width: initial;
-  -moz-column-rule-width: initial;
   column-rule-width: initial;
-  -webkit-column-rule-style: initial;
-  -moz-column-rule-style: initial;
   column-rule-style: initial;
-  -webkit-column-rule-color: initial;
-  -moz-column-rule-color: initial;
   column-rule-color: initial;
-  -webkit-column-width: initial;
-  -moz-column-width: initial;
   column-width: initial;
 }
 section {
-  -webkit-column-count: initial;
-  -moz-column-count: initial;
   column-count: initial;
-  -webkit-column-rule-width: initial;
-  -moz-column-rule-width: initial;
   column-rule-width: initial;
-  -webkit-column-rule-style: initial;
-  -moz-column-rule-style: initial;
   column-rule-style: initial;
-  -webkit-column-rule-color: initial;
-  -moz-column-rule-color: initial;
   column-rule-color: initial;
-  -webkit-column-gap: initial;
-  -moz-column-gap: initial;
   column-gap: initial;
 }
 button {
