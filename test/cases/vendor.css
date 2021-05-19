@@ -1,5 +1,4 @@
 button {
-  -webkit-box-shadow: 1px 1px 5px #eee;
   box-shadow: 1px 1px 5px #eee;
 }
 button {
@@ -101,42 +100,21 @@ button {
   background-clip: border-box, padding-box;
 }
 button {
-  -o-transition: all 0.1s ease-in-out 1s;
-  -webkit-transition: all 0.1s ease-in-out 1s;
-  -moz-transition: all 0.1s ease-in-out 1s;
   transition: all 0.1s ease-in-out 1s;
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
   backface-visibility: hidden;
 }
 button {
-  -o-transition-property: all;
-  -webkit-transition-property: all;
-  -moz-transition-property: all;
   transition-property: all;
-  -o-transition-duration: 0.1s;
-  -webkit-transition-duration: 0.1s;
-  -moz-transition-duration: 0.1s;
   transition-duration: 0.1s;
-  -o-transition-timing-function: ease-in-out;
-  -webkit-transition-timing-function: ease-in-out;
-  -moz-transition-timing-function: ease-in-out;
   transition-timing-function: ease-in-out;
-  -o-transition-delay: 1s;
-  -webkit-transition-delay: 1s;
-  -moz-transition-delay: 1s;
   transition-delay: 1s;
 }
 button {
-  -o-transform: rotateY(45deg);
-  -webkit-transform: rotateY(45deg);
-  -moz-transform: rotateY(45deg);
   transform: rotateY(45deg);
 }
 button {
-  -o-transform: perspective(500px);
-  -webkit-transform: perspective(500px);
-  -moz-transform: perspective(500px);
   transform: perspective(500px);
 }
 button {
@@ -145,13 +123,11 @@ button {
   perspective: 500;
 }
 section {
-  -o-border-image: url("image.png") 20% stretch stretch;
   -webkit-border-image: url("image.png") 20% stretch stretch;
   -moz-border-image: url("image.png") 20% stretch stretch;
   border-image: url("image.png") 20% stretch stretch;
 }
 section {
-  -o-border-image: url("image.png") 20% stretch stretch;
   -webkit-border-image: url("image.png") 20% stretch stretch;
   -moz-border-image: url("image.png") 20% stretch stretch;
   border-image: url("image.png") 20% fill stretch stretch;

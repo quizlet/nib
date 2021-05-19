@@ -62,7 +62,6 @@
   border-bottom-right-radius: 50% !important;
   -webkit-border-image: none !important;
   -moz-border-image: none !important;
-  -o-border-image: none !important;
   border-image: none !important;
   background-attachment: fixed !important;
   background-color: #f00 !important;
@@ -79,7 +78,6 @@
   background-origin: padding-box !important;
   background-size: 0 !important;
   background: none !important;
-  -webkit-box-shadow: 0 1px 0 #000 !important;
   box-shadow: 0 1px 0 #000 !important;
   color: rgba(0,0,0,0.5) !important;
   table-layout: fixed !important;
@@ -102,7 +100,6 @@
   text-outline: none !important;
   text-transform: capitalize !important;
   text-wrap: normal !important;
-  -o-text-overflow: ellipsis !important;
   text-overflow: ellipsis !important;
   text-shadow: 0 1px 0 0 #fff !important;
   line-height: 1.5 !important;
@@ -111,7 +108,6 @@
   word-wrap: normal !important;
   word-break: normal !important;
   -moz-tab-size: 4 !important;
-  -o-tab-size: 4 !important;
   tab-size: 4 !important;
   -webkit-hyphens: manual !important;
   -moz-hyphens: manual !important;

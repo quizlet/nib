@@ -1,5 +1,4 @@
 button {
-  -webkit-box-shadow: initial;
   box-shadow: initial;
 }
 button {
@@ -101,42 +100,21 @@ button {
   background-clip: initial;
 }
 button {
-  -o-transition: initial;
-  -webkit-transition: initial;
-  -moz-transition: initial;
   transition: initial;
   -webkit-backface-visibility: initial;
   -moz-backface-visibility: initial;
   backface-visibility: initial;
 }
 button {
-  -o-transition-property: initial;
-  -webkit-transition-property: initial;
-  -moz-transition-property: initial;
   transition-property: initial;
-  -o-transition-duration: initial;
-  -webkit-transition-duration: initial;
-  -moz-transition-duration: initial;
   transition-duration: initial;
-  -o-transition-timing-function: initial;
-  -webkit-transition-timing-function: initial;
-  -moz-transition-timing-function: initial;
   transition-timing-function: initial;
-  -o-transition-delay: initial;
-  -webkit-transition-delay: initial;
-  -moz-transition-delay: initial;
   transition-delay: initial;
 }
 button {
-  -o-transform: initial;
-  -webkit-transform: initial;
-  -moz-transform: initial;
   transform: initial;
 }
 button {
-  -o-transform: initial;
-  -webkit-transform: initial;
-  -moz-transform: initial;
   transform: initial;
 }
 button {
@@ -145,13 +123,11 @@ button {
   perspective: initial;
 }
 section {
-  -o-border-image: initial;
   -webkit-border-image: initial;
   -moz-border-image: initial;
   border-image: initial;
 }
 section {
-  -o-border-image: initial;
   -webkit-border-image: initial;
   -moz-border-image: initial;
   border-image: initial;

@@ -1,5 +1,4 @@
 button {
-  -webkit-box-shadow: inherit;
   box-shadow: inherit;
 }
 button {
@@ -101,42 +100,21 @@ button {
   background-clip: inherit;
 }
 button {
-  -o-transition: inherit;
-  -webkit-transition: inherit;
-  -moz-transition: inherit;
   transition: inherit;
   -webkit-backface-visibility: inherit;
   -moz-backface-visibility: inherit;
   backface-visibility: inherit;
 }
 button {
-  -o-transition-property: inherit;
-  -webkit-transition-property: inherit;
-  -moz-transition-property: inherit;
   transition-property: inherit;
-  -o-transition-duration: inherit;
-  -webkit-transition-duration: inherit;
-  -moz-transition-duration: inherit;
   transition-duration: inherit;
-  -o-transition-timing-function: inherit;
-  -webkit-transition-timing-function: inherit;
-  -moz-transition-timing-function: inherit;
   transition-timing-function: inherit;
-  -o-transition-delay: inherit;
-  -webkit-transition-delay: inherit;
-  -moz-transition-delay: inherit;
   transition-delay: inherit;
 }
 button {
-  -o-transform: inherit;
-  -webkit-transform: inherit;
-  -moz-transform: inherit;
   transform: inherit;
 }
 button {
-  -o-transform: inherit;
-  -webkit-transform: inherit;
-  -moz-transform: inherit;
   transform: inherit;
 }
 button {
@@ -145,13 +123,11 @@ button {
   perspective: inherit;
 }
 section {
-  -o-border-image: inherit;
   -webkit-border-image: inherit;
   -moz-border-image: inherit;
   border-image: inherit;
 }
 section {
-  -o-border-image: inherit;
   -webkit-border-image: inherit;
   -moz-border-image: inherit;
   border-image: inherit;
