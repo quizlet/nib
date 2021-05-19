@@ -11,34 +11,16 @@ button {
   white-space: initial;
 }
 button {
-  -webkit-animation-name: initial;
-  -moz-animation-name: initial;
   animation-name: initial;
-  -webkit-animation-delay: initial;
-  -moz-animation-delay: initial;
   animation-delay: initial;
-  -webkit-animation-duration: initial;
-  -moz-animation-duration: initial;
   animation-duration: initial;
-  -webkit-animation-iteration-count: initial;
-  -moz-animation-iteration-count: initial;
   animation-iteration-count: initial;
-  -webkit-animation-direction: initial;
-  -moz-animation-direction: initial;
   animation-direction: initial;
-  -webkit-animation-fill-mode: initial;
-  -moz-animation-fill-mode: initial;
   animation-fill-mode: initial;
-  -webkit-animation-play-state: initial;
-  -moz-animation-play-state: initial;
   animation-play-state: initial;
-  -webkit-animation-timing-function: initial;
-  -moz-animation-timing-function: initial;
   animation-timing-function: initial;
 }
 button {
-  -webkit-animation: initial;
-  -moz-animation: initial;
   animation: initial;
 }
 button {

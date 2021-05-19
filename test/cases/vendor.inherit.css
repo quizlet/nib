@@ -11,34 +11,16 @@ button {
   white-space: inherit;
 }
 button {
-  -webkit-animation-name: inherit;
-  -moz-animation-name: inherit;
   animation-name: inherit;
-  -webkit-animation-delay: inherit;
-  -moz-animation-delay: inherit;
   animation-delay: inherit;
-  -webkit-animation-duration: inherit;
-  -moz-animation-duration: inherit;
   animation-duration: inherit;
-  -webkit-animation-iteration-count: inherit;
-  -moz-animation-iteration-count: inherit;
   animation-iteration-count: inherit;
-  -webkit-animation-direction: inherit;
-  -moz-animation-direction: inherit;
   animation-direction: inherit;
-  -webkit-animation-fill-mode: inherit;
-  -moz-animation-fill-mode: inherit;
   animation-fill-mode: inherit;
-  -webkit-animation-play-state: inherit;
-  -moz-animation-play-state: inherit;
   animation-play-state: inherit;
-  -webkit-animation-timing-function: inherit;
-  -moz-animation-timing-function: inherit;
   animation-timing-function: inherit;
 }
 button {
-  -webkit-animation: inherit;
-  -moz-animation: inherit;
   animation: inherit;
 }
 button {
