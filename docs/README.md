@@ -290,7 +290,6 @@ Here is the full list of properties for which Nib provides transparent mixins:
 - transition-timing-function
 - transition-delay
 - opacity
-- box-sizing
 - box-orient
 - box-flex
 - box-flex-group

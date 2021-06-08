@@ -13,8 +13,6 @@
   overflow-x: scroll !important;
   overflow-y: auto !important;
   clip: auto !important;
-  -webkit-box-sizing: border-box !important;
-  -moz-box-sizing: border-box !important;
   box-sizing: border-box !important;
   margin: 0 !important;
   margin-top: 0 !important;
