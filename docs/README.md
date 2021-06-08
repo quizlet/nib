@@ -290,7 +290,6 @@ Here is the full list of properties for which Nib provides transparent mixins:
 - transition-duration
 - transition-timing-function
 - transition-delay
-- backface-visibility
 - opacity
 - box-sizing
 - box-orient
@@ -316,5 +315,5 @@ These aliases are provided purely for convenience.
 
 official    | aliases
 ----------- | ----------
-nowrap      | no-wrap  
+nowrap      | no-wrap
 white-space | whitespace

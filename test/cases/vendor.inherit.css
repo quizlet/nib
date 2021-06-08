@@ -57,8 +57,6 @@ button {
 }
 button {
   transition: inherit;
-  -webkit-backface-visibility: inherit;
-  -moz-backface-visibility: inherit;
   backface-visibility: inherit;
 }
 button {

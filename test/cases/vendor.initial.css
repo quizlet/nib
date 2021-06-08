@@ -57,8 +57,6 @@ button {
 }
 button {
   transition: initial;
-  -webkit-backface-visibility: initial;
-  -moz-backface-visibility: initial;
   backface-visibility: initial;
 }
 button {
