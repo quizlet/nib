@@ -275,7 +275,6 @@ Here is the full list of properties for which Nib provides transparent mixins:
 
 - box-shadow
 - radial-gradient
-- user-select
 - column-count
 - column-gap
 - column-rule
