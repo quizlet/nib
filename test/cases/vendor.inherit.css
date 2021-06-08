@@ -72,8 +72,6 @@ button {
   transform: inherit;
 }
 button {
-  -webkit-perspective: inherit;
-  -moz-perspective: inherit;
   perspective: inherit;
 }
 section {

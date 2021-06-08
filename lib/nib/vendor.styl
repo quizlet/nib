@@ -105,22 +105,6 @@ background-origin()
 border-image()
   vendor('border-image', arguments, only: webkit moz official)
 
-/*
- * Vendor "perspective" support.
- */
-
-perspective()
-  if mixin
-    vendor('perspective', arguments, only: webkit moz ms official)
-  else
-    'perspective(%s)' % arguments
-
-/*
- * Vendor "perspective-origin" support.
- */
-
-perspective-origin()
-  vendor('perspective-origin', arguments, only: webkit moz ms official)
 
 /*
  * Opacity with conditional IE support.
